@@ -1,3 +1,10 @@
 1. add file
 2. git commit at source control
 3. sync
+
+ctrl + n (開新檔案)
+(ctrl + k) + m (選語言)
+
+shift + alt + f (自動縮排)
+ctrl + alt + up/down (新增游標)
+alt + up/down (移動該行)
